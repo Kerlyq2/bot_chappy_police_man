@@ -1,0 +1,8 @@
+heroku config:set APP_ID=199089424772613 -a tranquil-coast-34519
+heroku config:set APP_SECRET=7c7c052b406eaf0ac9d15ec19b06c7ad -a tranquil-coast-34519
+heroku config:set APP_URL= https://tranquil-coast-34519.herokuapp.com -a tranquil-coast-34519
+heroku config:set PAGE_ID=111154927148468 -a tranquil-coast-34519
+heroku config:set PAGE_ACCESS_TOKEN=EAAC1Eh5xLgUBAEcgaF5HYYCNZBB5y1dzly4OgL4qEHNLrkejBO3rGdHx4OW2RM3eM5dGkt7SZARbOBA1g5TkV3u5M94r3vZAXjSDWeK8LA9PZAZCfj448HEHdG2RZBg451opfzjWlZBh8OcAydC7k0hrZC4vB6QfZBQZBBFZBoldLLRFE43WEB0EWJCZBNlFEH8wcTQZD -a tranquil-coast-34519
+heroku config:set VERIFY_TOKEN=nickverify -a tranquil-coast-34519
+## Default value example
+heroku config:set SHOP_URL=https://originalcoastclothing.com -a tranquil-coast-34519
